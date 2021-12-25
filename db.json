@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Officia totam omnis ",
+      "email": "gaha@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 1
+    },
+    {
+      "name": "Sed commodi cum corr",
+      "email": "bipamukud@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "name": "Omnis necessitatibus",
+      "email": "velydumi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 3
+    },
+    {
+      "name": "Aut distinctio Nesc",
+      "email": "liloqobopa@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "name": "Amet dolorem conseq",
+      "email": "wuhytuc@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 5
+    },
+    {
+      "name": "Est temporibus persp",
+      "email": "jyzymef@mailinator.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "name": "Et optio ad odit ci",
+      "email": "jycuwafe@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 7
+    },
+    {
+      "name": "sk",
+      "email": "sanjupal8750@gmail.com",
+      "password": "123456",
+      "id": 8
+    }
+  ],
+  "restoList": [
+    {
+      "title": "Enim dolorem irure q",
+      "comment": "Laborum Eos cupida",
+      "id": 2
+    },
+    {
+      "title": "ajay",
+      "comment": "Exercitationem cum d",
+      "id": 3
+    },
+    {
+      "title": "Magnam cumque labore",
+      "comment": "Dolor deserunt conse",
+      "id": 4
+    },
+    {
+      "title": "Qui doloribus saepe ",
+      "comment": "In anim quidem possi",
+      "id": 5
+    },
+    {
+      "title": "sanjay kumar pal",
+      "comment": "Cillum tempora labor",
+      "id": 6
+    },
+    {
+      "title": "Vitae cupidatat quo ",
+      "comment": "A est in non nulla ",
+      "id": 7
+    }
+  ]
+}
